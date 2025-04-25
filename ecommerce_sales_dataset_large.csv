@@ -1,0 +1,151 @@
+Order ID,Order Date,Ship Date,Customer ID,Customer Name,Region,City,Product Category,Sub-Category,Sales,Quantity,Discount,Profit
+ORD-00001,2024-04-01,2024-04-03,C106,Bob,South,Bangalore,Furniture,Tables,265.25,2,0.0,54.77
+ORD-00002,2024-03-16,2024-03-20,C117,Hannah,West,Los Angeles,Technology,Phones,365.39,1,0.15,80.05
+ORD-00003,2024-02-25,2024-03-01,C676,Charlie,West,Seattle,Furniture,Chairs,753.11,2,0.0,167.11
+ORD-00004,2024-01-17,2024-01-20,C418,Ivan,Central,Houston,Technology,Accessories,263.03,4,0.1,45.29
+ORD-00005,2024-02-19,2024-02-23,C397,Ethan,West,San Francisco,Furniture,Tables,866.91,2,0.15,167.03
+ORD-00006,2024-02-28,2024-03-03,C473,Bob,West,Los Angeles,Furniture,Tables,278.43,5,0.15,42.75
+ORD-00007,2024-02-25,2024-02-28,C867,Ethan,South,Bangalore,Technology,Phones,913.29,1,0.15,139.43
+ORD-00008,2024-02-26,2024-02-27,C887,Ethan,West,Seattle,Technology,Accessories,494.77,4,0.15,124.03
+ORD-00009,2024-03-14,2024-03-19,C437,Julia,South,Mumbai,Furniture,Chairs,815.29,4,0.05,139.35
+ORD-00010,2024-03-26,2024-03-30,C916,Fiona,West,San Francisco,Office Supplies,Binders,217.13,3,0.1,54.65
+ORD-00011,2024-03-31,2024-04-03,C932,Ivan,West,San Francisco,Office Supplies,Binders,251.81,1,0.15,68.3
+ORD-00012,2024-02-20,2024-02-21,C945,Julia,West,Seattle,Furniture,Tables,319.26,2,0.15,76.62
+ORD-00013,2024-03-26,2024-03-30,C506,Alice,Central,Houston,Furniture,Tables,694.82,1,0.15,132.82
+ORD-00014,2024-03-02,2024-03-07,C399,George,South,Mumbai,Furniture,Tables,337.82,1,0.2,57.19
+ORD-00015,2024-03-23,2024-03-28,C724,Fiona,Central,Chicago,Office Supplies,Binders,499.69,5,0.1,83.33
+ORD-00016,2024-03-15,2024-03-19,C253,Ivan,Central,Dallas,Furniture,Tables,281.49,2,0.0,81.53
+ORD-00017,2024-02-26,2024-02-28,C767,Charlie,West,San Francisco,Furniture,Chairs,65.13,2,0.05,13.09
+ORD-00018,2024-03-08,2024-03-11,C221,Charlie,Central,Dallas,Technology,Accessories,932.37,2,0.2,230.64
+ORD-00019,2024-03-08,2024-03-10,C528,Fiona,North,Toronto,Office Supplies,Binders,769.34,1,0.15,217.4
+ORD-00020,2024-03-26,2024-03-30,C397,Alice,East,New York,Furniture,Tables,854.0,2,0.2,205.85
+ORD-00021,2024-03-17,2024-03-21,C173,Hannah,East,Philadelphia,Technology,Accessories,382.17,1,0.1,102.63
+ORD-00022,2024-04-28,2024-04-30,C573,Bob,South,Delhi,Technology,Accessories,888.69,4,0.05,243.67
+ORD-00023,2024-04-15,2024-04-16,C590,Ivan,North,Toronto,Furniture,Bookcases,488.37,1,0.1,108.09
+ORD-00024,2024-03-26,2024-03-31,C235,Julia,West,Los Angeles,Technology,Phones,500.99,4,0.1,76.35
+ORD-00025,2024-02-16,2024-02-19,C765,Ivan,Central,Houston,Technology,Laptops,577.66,5,0.0,106.63
+ORD-00026,2024-01-16,2024-01-18,C533,Alice,East,Philadelphia,Technology,Accessories,827.9,5,0.05,202.22
+ORD-00027,2024-01-22,2024-01-26,C454,Hannah,North,Vancouver,Office Supplies,Pens,893.85,2,0.2,252.29
+ORD-00028,2024-03-11,2024-03-14,C360,George,West,Seattle,Furniture,Tables,634.23,1,0.05,100.63
+ORD-00029,2024-02-14,2024-02-15,C435,Alice,East,Boston,Technology,Phones,920.12,2,0.2,266.96
+ORD-00030,2024-01-12,2024-01-15,C470,Diana,South,Bangalore,Furniture,Chairs,566.81,4,0.0,116.63
+ORD-00031,2024-01-24,2024-01-28,C875,Fiona,East,Philadelphia,Technology,Phones,594.08,3,0.05,102.86
+ORD-00032,2024-03-18,2024-03-23,C805,Charlie,West,Seattle,Office Supplies,Binders,720.37,4,0.05,128.32
+ORD-00033,2024-03-18,2024-03-20,C580,Ivan,Central,Dallas,Office Supplies,Pens,999.7,2,0.05,212.29
+ORD-00034,2024-03-04,2024-03-08,C644,Bob,East,New York,Technology,Laptops,268.16,3,0.2,52.08
+ORD-00035,2024-03-17,2024-03-22,C537,Julia,North,Vancouver,Technology,Laptops,988.73,5,0.0,199.58
+ORD-00036,2024-03-01,2024-03-05,C414,George,East,Philadelphia,Technology,Laptops,206.54,2,0.2,47.06
+ORD-00037,2024-04-04,2024-04-08,C485,Alice,South,Bangalore,Technology,Laptops,881.91,1,0.15,199.31
+ORD-00038,2024-03-19,2024-03-22,C106,Fiona,North,Montreal,Furniture,Tables,474.4,2,0.05,89.89
+ORD-00039,2024-04-24,2024-04-28,C516,Ethan,South,Mumbai,Technology,Laptops,752.18,2,0.05,206.6
+ORD-00040,2024-02-22,2024-02-23,C929,Ethan,North,Toronto,Furniture,Chairs,431.13,3,0.05,113.52
+ORD-00041,2024-04-17,2024-04-20,C757,Julia,South,Bangalore,Furniture,Bookcases,938.98,1,0.1,269.14
+ORD-00042,2024-02-26,2024-03-02,C504,Ethan,Central,Dallas,Office Supplies,Binders,895.03,3,0.05,135.98
+ORD-00043,2024-03-12,2024-03-16,C117,Charlie,South,Delhi,Office Supplies,Binders,149.7,3,0.2,41.2
+ORD-00044,2024-01-18,2024-01-19,C963,Hannah,South,Bangalore,Technology,Accessories,284.3,1,0.15,47.2
+ORD-00045,2024-04-16,2024-04-20,C143,Julia,West,Los Angeles,Office Supplies,Paper,593.54,5,0.2,106.44
+ORD-00046,2024-02-14,2024-02-17,C147,Ivan,North,Montreal,Furniture,Bookcases,514.57,3,0.15,145.6
+ORD-00047,2024-03-14,2024-03-17,C949,George,East,New York,Technology,Accessories,426.15,4,0.15,72.22
+ORD-00048,2024-03-29,2024-04-02,C289,Hannah,East,New York,Office Supplies,Paper,51.02,5,0.2,12.5
+ORD-00049,2024-02-22,2024-02-26,C365,Alice,North,Toronto,Office Supplies,Binders,361.74,4,0.15,67.88
+ORD-00050,2024-02-05,2024-02-10,C629,Diana,North,Vancouver,Furniture,Bookcases,380.11,2,0.05,96.07
+ORD-00051,2024-02-11,2024-02-15,C599,Bob,North,Montreal,Technology,Accessories,828.98,3,0.05,152.22
+ORD-00052,2024-02-10,2024-02-12,C826,Charlie,North,Vancouver,Office Supplies,Pens,214.7,2,0.15,61.06
+ORD-00053,2024-04-18,2024-04-22,C869,Fiona,Central,Houston,Technology,Phones,854.43,4,0.2,215.75
+ORD-00054,2024-03-28,2024-04-02,C767,Hannah,North,Montreal,Furniture,Tables,219.5,3,0.2,54.02
+ORD-00055,2024-04-21,2024-04-26,C873,Ethan,North,Vancouver,Furniture,Chairs,314.13,5,0.15,84.77
+ORD-00056,2024-01-21,2024-01-24,C418,Charlie,East,New York,Office Supplies,Paper,766.91,1,0.05,133.47
+ORD-00057,2024-04-27,2024-04-30,C419,Bob,South,Delhi,Technology,Laptops,562.63,5,0.1,147.48
+ORD-00058,2024-01-09,2024-01-13,C334,Alice,Central,Houston,Office Supplies,Paper,563.01,4,0.15,136.75
+ORD-00059,2024-04-17,2024-04-19,C828,Hannah,North,Montreal,Technology,Accessories,762.01,5,0.2,124.84
+ORD-00060,2024-02-02,2024-02-04,C248,Hannah,West,San Francisco,Furniture,Tables,169.66,2,0.15,28.85
+ORD-00061,2024-01-05,2024-01-09,C421,Diana,Central,Chicago,Technology,Accessories,54.85,2,0.05,10.34
+ORD-00062,2024-03-01,2024-03-03,C760,Alice,Central,Dallas,Furniture,Chairs,346.47,1,0.2,90.73
+ORD-00063,2024-03-28,2024-03-31,C835,Ivan,South,Bangalore,Furniture,Chairs,808.88,5,0.05,175.25
+ORD-00064,2024-04-24,2024-04-25,C844,Charlie,Central,Dallas,Technology,Phones,605.4,2,0.0,135.06
+ORD-00065,2024-03-11,2024-03-16,C892,Diana,East,New York,Technology,Laptops,621.5,1,0.0,174.33
+ORD-00066,2024-04-12,2024-04-15,C708,Ivan,Central,Dallas,Technology,Phones,584.24,4,0.0,146.75
+ORD-00067,2024-04-12,2024-04-15,C472,Diana,West,San Francisco,Furniture,Bookcases,167.64,1,0.0,38.44
+ORD-00068,2024-01-03,2024-01-07,C316,Hannah,Central,Dallas,Office Supplies,Binders,265.31,3,0.0,78.15
+ORD-00069,2024-04-27,2024-04-30,C138,Alice,East,Philadelphia,Technology,Laptops,527.14,2,0.05,111.85
+ORD-00070,2024-03-08,2024-03-10,C409,Diana,South,Delhi,Office Supplies,Pens,239.45,4,0.05,60.06
+ORD-00071,2024-02-18,2024-02-22,C869,Ethan,North,Vancouver,Technology,Phones,171.47,1,0.0,28.09
+ORD-00072,2024-04-15,2024-04-18,C236,Ivan,South,Mumbai,Office Supplies,Paper,739.35,3,0.2,128.06
+ORD-00073,2024-03-27,2024-04-01,C916,George,East,Philadelphia,Furniture,Tables,355.92,3,0.2,91.04
+ORD-00074,2024-04-05,2024-04-10,C887,Ivan,North,Vancouver,Office Supplies,Pens,884.57,2,0.2,194.42
+ORD-00075,2024-01-21,2024-01-24,C408,George,West,Seattle,Furniture,Chairs,295.4,5,0.1,62.31
+ORD-00076,2024-04-11,2024-04-16,C665,Hannah,East,Philadelphia,Technology,Phones,173.81,3,0.1,28.12
+ORD-00077,2024-04-25,2024-04-27,C717,Hannah,West,Los Angeles,Technology,Accessories,288.5,2,0.1,57.6
+ORD-00078,2024-04-29,2024-05-03,C346,George,North,Vancouver,Office Supplies,Binders,964.43,4,0.15,172.35
+ORD-00079,2024-01-08,2024-01-10,C903,Bob,South,Mumbai,Office Supplies,Binders,211.63,1,0.0,34.39
+ORD-00080,2024-03-01,2024-03-03,C551,Diana,South,Delhi,Office Supplies,Paper,453.41,3,0.1,87.41
+ORD-00081,2024-02-03,2024-02-07,C612,Fiona,North,Toronto,Office Supplies,Paper,557.76,2,0.1,128.24
+ORD-00082,2024-02-04,2024-02-06,C373,Diana,Central,Houston,Technology,Accessories,850.9,5,0.15,241.04
+ORD-00083,2024-04-14,2024-04-19,C181,Alice,East,New York,Furniture,Chairs,133.21,1,0.15,32.74
+ORD-00084,2024-01-04,2024-01-05,C273,Alice,Central,Chicago,Furniture,Chairs,470.8,3,0.0,91.92
+ORD-00085,2024-03-03,2024-03-08,C678,George,West,San Francisco,Office Supplies,Binders,835.54,4,0.1,155.88
+ORD-00086,2024-01-25,2024-01-26,C626,Bob,Central,Dallas,Office Supplies,Paper,674.41,2,0.0,122.3
+ORD-00087,2024-03-19,2024-03-21,C489,Diana,East,Philadelphia,Office Supplies,Pens,851.53,1,0.0,233.28
+ORD-00088,2024-03-03,2024-03-08,C699,Bob,Central,Chicago,Office Supplies,Binders,956.14,3,0.15,250.45
+ORD-00089,2024-03-05,2024-03-10,C472,Julia,North,Vancouver,Furniture,Chairs,740.56,1,0.0,116.55
+ORD-00090,2024-03-09,2024-03-12,C893,George,South,Delhi,Furniture,Chairs,202.67,4,0.15,40.7
+ORD-00091,2024-01-19,2024-01-21,C845,Ivan,South,Mumbai,Technology,Laptops,591.62,4,0.0,93.14
+ORD-00092,2024-03-05,2024-03-10,C704,Diana,North,Montreal,Technology,Phones,963.44,5,0.1,158.69
+ORD-00093,2024-03-30,2024-04-03,C831,George,East,Philadelphia,Technology,Accessories,696.14,5,0.15,154.08
+ORD-00094,2024-02-27,2024-03-03,C326,Charlie,South,Delhi,Office Supplies,Binders,258.84,1,0.15,56.06
+ORD-00095,2024-02-07,2024-02-10,C477,George,North,Montreal,Office Supplies,Paper,936.08,4,0.05,262.07
+ORD-00096,2024-04-14,2024-04-19,C400,Hannah,East,Boston,Furniture,Chairs,715.76,1,0.15,187.68
+ORD-00097,2024-01-21,2024-01-25,C313,Alice,North,Vancouver,Furniture,Chairs,586.9,4,0.15,133.78
+ORD-00098,2024-02-13,2024-02-17,C836,Ethan,Central,Dallas,Office Supplies,Pens,205.67,2,0.1,35.19
+ORD-00099,2024-03-15,2024-03-16,C971,Julia,Central,Chicago,Technology,Phones,407.99,1,0.1,105.16
+ORD-00100,2024-01-20,2024-01-23,C656,George,East,New York,Technology,Accessories,996.62,2,0.05,277.71
+ORD-00101,2024-03-03,2024-03-04,C254,Fiona,South,Delhi,Technology,Accessories,589.13,4,0.05,166.62
+ORD-00102,2024-04-15,2024-04-18,C973,Fiona,Central,Houston,Furniture,Tables,593.21,4,0.05,164.55
+ORD-00103,2024-03-29,2024-03-31,C942,Hannah,East,Philadelphia,Furniture,Chairs,337.75,4,0.2,55.21
+ORD-00104,2024-03-08,2024-03-10,C677,George,Central,Chicago,Technology,Accessories,957.02,1,0.2,245.71
+ORD-00105,2024-02-17,2024-02-22,C338,Ethan,Central,Chicago,Office Supplies,Binders,607.23,5,0.0,97.79
+ORD-00106,2024-04-15,2024-04-17,C736,Fiona,West,San Francisco,Technology,Phones,167.78,5,0.15,42.35
+ORD-00107,2024-03-20,2024-03-25,C345,Ethan,East,Philadelphia,Furniture,Tables,344.76,2,0.15,101.35
+ORD-00108,2024-04-20,2024-04-23,C598,George,East,New York,Office Supplies,Paper,508.46,4,0.0,139.66
+ORD-00109,2024-02-15,2024-02-18,C697,Hannah,East,New York,Office Supplies,Pens,175.52,5,0.1,44.71
+ORD-00110,2024-02-01,2024-02-05,C841,Ethan,East,Philadelphia,Furniture,Tables,916.55,2,0.15,150.5
+ORD-00111,2024-02-26,2024-02-29,C956,Julia,West,Seattle,Office Supplies,Paper,808.7,3,0.05,201.02
+ORD-00112,2024-02-15,2024-02-19,C681,Julia,South,Delhi,Office Supplies,Paper,235.71,3,0.15,37.5
+ORD-00113,2024-02-11,2024-02-13,C437,Alice,Central,Chicago,Technology,Accessories,650.97,3,0.2,99.56
+ORD-00114,2024-04-17,2024-04-22,C235,Julia,North,Toronto,Furniture,Chairs,484.12,4,0.15,144.23
+ORD-00115,2024-03-31,2024-04-02,C379,Ivan,North,Toronto,Technology,Laptops,745.46,1,0.1,127.9
+ORD-00116,2024-01-29,2024-02-01,C631,George,West,Los Angeles,Furniture,Tables,506.51,2,0.0,81.4
+ORD-00117,2024-03-13,2024-03-15,C953,Ethan,West,Los Angeles,Furniture,Chairs,905.62,4,0.0,200.3
+ORD-00118,2024-03-11,2024-03-12,C482,Charlie,South,Mumbai,Office Supplies,Pens,881.03,3,0.1,195.44
+ORD-00119,2024-02-05,2024-02-09,C473,Diana,South,Delhi,Office Supplies,Pens,892.57,5,0.05,244.3
+ORD-00120,2024-01-03,2024-01-06,C507,Fiona,North,Vancouver,Technology,Phones,492.22,4,0.0,86.7
+ORD-00121,2024-03-24,2024-03-25,C510,Julia,West,Los Angeles,Furniture,Tables,714.59,1,0.1,198.43
+ORD-00122,2024-03-24,2024-03-25,C233,Ethan,West,San Francisco,Office Supplies,Pens,604.59,4,0.15,132.57
+ORD-00123,2024-01-02,2024-01-04,C144,Bob,North,Toronto,Technology,Accessories,757.32,2,0.05,153.74
+ORD-00124,2024-03-14,2024-03-19,C342,Julia,East,Boston,Office Supplies,Binders,87.31,4,0.15,19.61
+ORD-00125,2024-02-03,2024-02-05,C556,Bob,East,Boston,Office Supplies,Paper,417.86,2,0.2,116.79
+ORD-00126,2024-01-30,2024-02-03,C616,Hannah,South,Bangalore,Office Supplies,Pens,114.29,5,0.1,33.51
+ORD-00127,2024-04-17,2024-04-18,C553,Ethan,West,Los Angeles,Furniture,Tables,526.7,4,0.2,111.35
+ORD-00128,2024-02-05,2024-02-09,C234,Charlie,North,Toronto,Furniture,Tables,599.15,4,0.2,166.55
+ORD-00129,2024-02-19,2024-02-20,C975,Fiona,Central,Dallas,Office Supplies,Binders,817.34,5,0.1,236.85
+ORD-00130,2024-02-10,2024-02-12,C875,Alice,East,New York,Technology,Accessories,753.2,3,0.0,134.16
+ORD-00131,2024-01-07,2024-01-08,C870,Diana,Central,Chicago,Office Supplies,Binders,872.82,5,0.15,189.3
+ORD-00132,2024-02-08,2024-02-09,C335,Charlie,South,Delhi,Office Supplies,Binders,199.78,4,0.1,37.89
+ORD-00133,2024-04-24,2024-04-29,C329,Charlie,South,Delhi,Technology,Accessories,206.32,1,0.2,36.96
+ORD-00134,2024-03-04,2024-03-09,C922,Ivan,East,New York,Furniture,Bookcases,354.75,1,0.15,68.18
+ORD-00135,2024-04-07,2024-04-08,C718,Julia,Central,Houston,Office Supplies,Pens,77.98,5,0.05,22.75
+ORD-00136,2024-01-19,2024-01-24,C886,Bob,South,Mumbai,Technology,Laptops,397.31,4,0.05,67.08
+ORD-00137,2024-02-08,2024-02-09,C750,Diana,East,New York,Technology,Laptops,545.22,4,0.2,94.43
+ORD-00138,2024-03-30,2024-03-31,C946,Charlie,East,Boston,Office Supplies,Pens,789.53,4,0.15,135.1
+ORD-00139,2024-01-19,2024-01-20,C139,George,Central,Dallas,Technology,Accessories,945.88,5,0.0,204.96
+ORD-00140,2024-02-02,2024-02-04,C508,Ivan,North,Vancouver,Office Supplies,Paper,935.81,1,0.05,249.11
+ORD-00141,2024-04-01,2024-04-03,C274,Bob,South,Delhi,Technology,Phones,906.47,2,0.0,199.53
+ORD-00142,2024-02-18,2024-02-23,C652,Alice,Central,Houston,Technology,Phones,737.75,3,0.2,202.57
+ORD-00143,2024-02-20,2024-02-24,C678,Diana,Central,Dallas,Furniture,Chairs,374.21,1,0.2,106.04
+ORD-00144,2024-01-27,2024-01-31,C694,Diana,North,Montreal,Office Supplies,Binders,839.09,3,0.05,220.45
+ORD-00145,2024-04-23,2024-04-26,C894,Alice,North,Toronto,Furniture,Tables,914.67,1,0.1,149.11
+ORD-00146,2024-02-17,2024-02-19,C553,Charlie,South,Mumbai,Furniture,Chairs,736.49,4,0.05,209.74
+ORD-00147,2024-02-26,2024-02-29,C252,Julia,North,Montreal,Technology,Phones,526.73,4,0.2,85.4
+ORD-00148,2024-04-29,2024-05-04,C979,Ivan,North,Toronto,Furniture,Chairs,287.46,3,0.05,63.74
+ORD-00149,2024-01-06,2024-01-11,C626,George,North,Toronto,Technology,Laptops,949.27,2,0.15,253.45
+ORD-00150,2024-04-07,2024-04-08,C869,Diana,Central,Chicago,Furniture,Tables,427.69,5,0.0,67.02
